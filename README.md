@@ -9,4 +9,4 @@ Publication Link: To be updated.
 
 Citation: To be updated.
 
-Authors: [Mohamed Hashim Changrampadi](), [A. Shahina](), [M. Badri Narayanan](https://www.linkedin.com/in/mbadrinarayanan), [A. Nayeemulla Khan]()
+Authors: [Mohamed Hashim Changrampadi](https://scholar.google.com/citations?user=O6duVtIAAAAJ&hl=en), [A. Shahina](https://scholar.google.co.in/citations?user=TrfKTFIAAAAJ&hl=en), [M. Badri Narayanan](https://www.linkedin.com/in/mbadrinarayanan), [A. Nayeemulla Khan](https://scholar.google.com/citations?user=_RKGgXgAAAAJ&hl=en)
