@@ -3,9 +3,7 @@ This repository contains code for the paper "End-to-End Speech Recognition of Ta
 
 We present a method to develop speech recognition model with minimal resources using Mozilla DeepSpeech architecture. We have utilized freely available online computational resources for training, enabling similar approaches to be carried out for research in a low-resourced languages in a financially constrained environments. We also present novel ways to build an efficient language model from publicly available web resources to improve accuracy in ASR.  We have also demonstrated a semi-supervised development of speech corpus using our trained ASR model, indicating a cost effective approach of building large vocabulary corpus for low resource language. 
 
-DoI Link: doi:10.32604/iasc.2022.022021 
-
-Publication Link: To be updated.
+Publication Link: http://www.techscience.com/iasc/v32n2/45592
 
 Citation:
 ```
