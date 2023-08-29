@@ -1,9 +1,9 @@
 # TamilASR
-This repository contains code for the paper "End-to-End Speech Recognition of Tamil Language", published in the Intelligent Automation &amp; Soft Computing Journal, 2021
+This repository contains code for the paper "End-to-End Speech Recognition of Tamil Language", published in the Intelligent Automation &amp; Soft Computing Journal, 2021. Journal indexed in Science Citation Index Expanded.
 
-We present a method to develop speech recognition model with minimal resources using Mozilla DeepSpeech architecture. We have utilized freely available online computational resources for training, enabling similar approaches to be carried out for research in a low-resourced languages in a financially constrained environments. We also present novel ways to build an efficient language model from publicly available web resources to improve accuracy in ASR.  We have also demonstrated a semi-supervised development of speech corpus using our trained ASR model, indicating a cost effective approach of building large vocabulary corpus for low resource language. 
+We present a method to develop a speech recognition model with minimal resources using Mozilla DeepSpeech architecture. We have utilized freely available online computational resources for training, enabling similar approaches to be carried out for research in low-resourced languages in a financially constrained environment. We also present novel ways to build an efficient language model from publicly available web resources to improve accuracy in ASR.  We have also demonstrated a semi-supervised development of speech corpus using our trained ASR model, indicating a cost-effective approach to building a large vocabulary corpus for low-resource language. 
 
-Publication Link: http://www.techscience.com/iasc/v32n2/45592
+Publication Link: [http://www.techscience.com/iasc/v32n2/45592](http://www.techscience.com/iasc/v32n2/45592)
 
 Citation:
 ```
@@ -19,7 +19,6 @@ URL = {http://www.techscience.com/iasc/v32n2/45592},
 ISSN = {2326-005X},
 DOI = {10.32604/iasc.2022.022021}
 }
-
 ```
 
 Authors: [Mohamed Hashim Changrampadi](https://scholar.google.com/citations?user=O6duVtIAAAAJ&hl=en), [A. Shahina](https://scholar.google.co.in/citations?user=TrfKTFIAAAAJ&hl=en), [M. Badri Narayanan](https://www.linkedin.com/in/mbadrinarayanan), [A. Nayeemulla Khan](https://scholar.google.com/citations?user=_RKGgXgAAAAJ&hl=en)
